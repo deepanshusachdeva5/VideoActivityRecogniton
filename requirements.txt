@@ -1,0 +1,9 @@
+fastapi==0.75.2
+mediapipe
+numpy
+opencv_python
+pydantic
+pytorchvideo
+requests
+torch
+torchvision
