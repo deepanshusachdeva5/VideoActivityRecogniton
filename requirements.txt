@@ -7,3 +7,4 @@ pytorchvideo
 requests
 torch
 torchvision
+uvicorn
